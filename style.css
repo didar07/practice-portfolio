@@ -54,13 +54,11 @@ section {
 
 .item-recipi {
     display: flex;
-    box-shadow: inset;
-
 }
 
 .two-item {
-    box-shadow: inset;
-    border: 20px 60px;
-    border-radius: 30px;
-    box-sizing: content-box;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 20px 30px 35px gray;
+    justify-content: space-between;
 }
