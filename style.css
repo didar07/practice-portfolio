@@ -13,16 +13,18 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
     width: 50%;
     padding-left: 10%;
+    padding-right: 10%;
 }
 
 .half-width img {
     width: 100%;
-    padding-right: 30%;
+    padding-right: 20%;
 }
 
 .link-button {
@@ -32,4 +34,9 @@ section {
     background-image: linear-gradient(orange, tomato);
     padding: 25px 50px;
     border-radius: 50px;
+}
+
+.about-me {
+    background-image: url(images/7.png);
+    padding-left: 5%;
 }
