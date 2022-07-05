@@ -38,5 +38,29 @@ section {
 
 .about-me {
     background-image: url(images/7.png);
-    padding-left: 5%;
+
+}
+
+#my-recipies {
+    text-align: center;
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+
+    justify-content: center;
+}
+
+.item-recipi {
+    display: flex;
+    box-shadow: inset;
+
+}
+
+.two-item {
+    box-shadow: inset;
+    border: 20px 60px;
+    border-radius: 30px;
+    box-sizing: content-box;
 }
